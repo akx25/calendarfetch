@@ -1,4 +1,4 @@
-### calendarfetch
+# calendarfetch
 
 <img width="1038" height="319" alt="image" src="https://github.com/user-attachments/assets/4ba0307d-e981-42a6-89e1-a5019bf4fd2f" />
 
